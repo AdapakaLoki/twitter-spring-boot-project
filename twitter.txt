@@ -1,0 +1,1152 @@
+25 Sep 2023;06:20:44.850 [HikariPool-2 housekeeper] [31mWARN [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=7h23m16s698ms644µs100ns).
+[0;39m25 Sep 2023;08:08:05.073 [HikariPool-2 housekeeper] [31mWARN [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h43m50s131ms734µs400ns).
+[0;39m25 Sep 2023;08:15:33.970 [HikariPool-2 housekeeper] [31mWARN [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m28s817ms817µs500ns).
+[0;39m25 Sep 2023;08:38:00.498 [HikariPool-2 housekeeper] [31mWARN [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=16m56s452ms926µs100ns).
+[0;39m25 Sep 2023;08:50:33.036 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[0;39m25 Sep 2023;08:50:33.189 [Thread-7] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;08:50:33.262 [Thread-7] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:50:33.288 [Thread-7] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Shutdown initiated...
+[0;39m25 Sep 2023;08:50:33.302 [Thread-7] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Shutdown completed.
+[0;39m25 Sep 2023;08:50:33.559 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 23292 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;08:50:33.560 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;08:50:33.560 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;08:50:34.327 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;08:50:34.350 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 22 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;08:50:34.767 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;08:50:34.777 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;08:50:34.778 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;08:50:34.819 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;08:50:34.819 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 1254 ms
+[0;39m25 Sep 2023;08:50:34.857 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Starting...
+[0;39m25 Sep 2023;08:50:34.875 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6a7833eb
+[0;39m25 Sep 2023;08:50:34.876 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Start completed.
+[0;39m25 Sep 2023;08:50:34.923 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;08:50:34.930 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:50:34.931 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;08:50:34.949 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:50:35.011 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;08:50:35.132 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:50:35.321 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;08:50:36.064 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@22047ffe, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@789fee76, org.springframework.security.web.context.SecurityContextHolderFilter@763297af, org.springframework.security.web.header.HeaderWriterFilter@6417249f, org.springframework.security.web.authentication.logout.LogoutFilter@7db00a19, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@53afc37c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6faa03ed, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@42da4c8b, org.springframework.security.web.access.ExceptionTranslationFilter@12e5cb97, org.springframework.security.web.access.intercept.AuthorizationFilter@3673199a]
+[0;39m25 Sep 2023;08:50:36.136 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;08:50:36.151 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;08:50:36.163 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 2.644 seconds (process running for 36231.979)
+[0;39m25 Sep 2023;08:50:36.168 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - [32mCondition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   TaskSchedulingAutoConfiguration#scheduledBeanLazyInitializationExcludeFilter matched:
+      - @ConditionalOnBean (names: org.springframework.context.annotation.internalScheduledAnnotationProcessor; SearchStrategy: all) found bean 'org.springframework.context.annotation.internalScheduledAnnotationProcessor' (OnBeanCondition)
+
+   TaskSchedulingAutoConfiguration#taskScheduler matched:
+      - @ConditionalOnBean (names: org.springframework.context.annotation.internalScheduledAnnotationProcessor; SearchStrategy: all) found bean 'org.springframework.context.annotation.internalScheduledAnnotationProcessor'; @ConditionalOnMissingBean (types: org.springframework.scheduling.annotation.SchedulingConfigurer,org.springframework.scheduling.TaskScheduler,java.util.concurrent.ScheduledExecutorService; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+    None
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+[0;39m25 Sep 2023;08:52:23.310 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+[0;39m25 Sep 2023;08:52:23.321 [Thread-11] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;08:52:23.326 [Thread-11] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:52:23.327 [Thread-11] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Shutdown initiated...
+[0;39m25 Sep 2023;08:52:23.332 [Thread-11] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Shutdown completed.
+[0;39m25 Sep 2023;08:52:23.406 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 23292 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;08:52:23.406 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;08:52:23.406 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;08:52:23.582 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;08:52:23.598 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 15 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;08:52:23.682 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;08:52:23.682 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;08:52:23.682 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;08:52:23.702 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;08:52:23.703 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 295 ms
+[0;39m25 Sep 2023;08:52:23.736 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-4 - Starting...
+[0;39m25 Sep 2023;08:52:23.748 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2fa6dc4b
+[0;39m25 Sep 2023;08:52:23.749 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-4 - Start completed.
+[0;39m25 Sep 2023;08:52:23.779 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;08:52:23.786 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:52:23.787 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;08:52:23.810 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:52:23.875 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;08:52:23.961 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:52:24.102 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;08:52:24.496 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@7f492fca, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@cf21f51, org.springframework.security.web.context.SecurityContextHolderFilter@5c979074, org.springframework.security.web.header.HeaderWriterFilter@577cf1fc, org.springframework.security.web.authentication.logout.LogoutFilter@7530cf15, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1086a096, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@25871fb4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6616eb01, org.springframework.security.web.access.ExceptionTranslationFilter@7fb951bb, org.springframework.security.web.access.intercept.AuthorizationFilter@4df09c2c]
+[0;39m25 Sep 2023;08:52:24.576 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;08:52:24.592 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;08:52:24.597 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 1.212 seconds (process running for 36340.413)
+[0;39m25 Sep 2023;08:52:24.599 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - [32mCondition evaluation unchanged
+[0;39m25 Sep 2023;08:53:21.891 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[0;39m25 Sep 2023;08:53:21.905 [Thread-15] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;08:53:21.910 [Thread-15] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:53:21.911 [Thread-15] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-4 - Shutdown initiated...
+[0;39m25 Sep 2023;08:53:21.919 [Thread-15] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-4 - Shutdown completed.
+[0;39m25 Sep 2023;08:53:21.992 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 23292 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;08:53:21.993 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;08:53:21.993 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;08:53:22.151 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;08:53:22.163 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 11 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;08:53:22.277 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;08:53:22.280 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;08:53:22.280 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;08:53:22.308 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;08:53:22.308 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 314 ms
+[0;39m25 Sep 2023;08:53:22.335 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-5 - Starting...
+[0;39m25 Sep 2023;08:53:22.351 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@643918cd
+[0;39m25 Sep 2023;08:53:22.351 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-5 - Start completed.
+[0;39m25 Sep 2023;08:53:22.392 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;08:53:22.396 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:53:22.397 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;08:53:22.415 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:53:22.465 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;08:53:22.562 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:53:22.701 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;08:53:23.050 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@5af66540, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@77ad0bf3, org.springframework.security.web.context.SecurityContextHolderFilter@1205a1fd, org.springframework.security.web.header.HeaderWriterFilter@898e3fc, org.springframework.security.web.authentication.logout.LogoutFilter@46ed637e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2e772538, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3610bddc, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@fd8248, org.springframework.security.web.access.ExceptionTranslationFilter@51e932d8, org.springframework.security.web.access.intercept.AuthorizationFilter@626979cb]
+[0;39m25 Sep 2023;08:53:23.143 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;08:53:23.159 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;08:53:23.166 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 1.194 seconds (process running for 36398.983)
+[0;39m25 Sep 2023;08:53:23.177 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - [32mCondition evaluation unchanged
+[0;39m25 Sep 2023;08:54:48.301 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[0;39m25 Sep 2023;08:54:48.313 [Thread-19] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;08:54:48.316 [Thread-19] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:54:48.317 [Thread-19] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-5 - Shutdown initiated...
+[0;39m25 Sep 2023;08:54:48.320 [Thread-19] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-5 - Shutdown completed.
+[0;39m25 Sep 2023;08:54:48.390 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 23292 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;08:54:48.390 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;08:54:48.391 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;08:54:48.559 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;08:54:48.579 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 19 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;08:54:48.726 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;08:54:48.726 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;08:54:48.726 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;08:54:48.743 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;08:54:48.743 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 351 ms
+[0;39m25 Sep 2023;08:54:48.771 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-6 - Starting...
+[0;39m25 Sep 2023;08:54:48.782 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7d87c157
+[0;39m25 Sep 2023;08:54:48.782 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-6 - Start completed.
+[0;39m25 Sep 2023;08:54:48.813 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;08:54:48.819 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:54:48.820 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;08:54:48.835 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:54:48.884 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;08:54:48.947 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:54:49.108 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;08:54:49.543 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@49c42c5b, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@96f20f3, org.springframework.security.web.context.SecurityContextHolderFilter@10aa4882, org.springframework.security.web.header.HeaderWriterFilter@6bf3e783, org.springframework.security.web.authentication.logout.LogoutFilter@181e7e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@55c38fb, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@360f964f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@56fc28fd, org.springframework.security.web.access.ExceptionTranslationFilter@5d6d6c1, org.springframework.security.web.access.intercept.AuthorizationFilter@2e903a5b]
+[0;39m25 Sep 2023;08:54:49.613 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;08:54:49.633 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;08:54:49.656 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 1.282 seconds (process running for 36485.471)
+[0;39m25 Sep 2023;08:54:49.657 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - [32mCondition evaluation unchanged
+[0;39m25 Sep 2023;08:54:53.554 [RMI TCP Connection(49)-127.0.0.1] [34mINFO [0;39m [36mo.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin[0;39m - [32mApplication shutdown requested.
+[0;39m25 Sep 2023;08:54:53.559 [RMI TCP Connection(49)-127.0.0.1] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;08:54:53.563 [RMI TCP Connection(49)-127.0.0.1] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:54:53.563 [RMI TCP Connection(49)-127.0.0.1] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-6 - Shutdown initiated...
+[0;39m25 Sep 2023;08:54:53.567 [RMI TCP Connection(49)-127.0.0.1] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-6 - Shutdown completed.
+[0;39m25 Sep 2023;08:55:05.309 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 21664 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;08:55:05.326 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;08:55:05.327 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;08:55:05.379 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - [32mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[0;39m25 Sep 2023;08:55:05.381 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - [32mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[0;39m25 Sep 2023;08:55:06.264 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;08:55:06.334 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 62 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;08:55:06.967 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;08:55:06.979 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;08:55:06.979 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;08:55:07.048 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;08:55:07.048 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 1667 ms
+[0;39m25 Sep 2023;08:55:07.166 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Starting...
+[0;39m25 Sep 2023;08:55:07.497 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@14a108f5
+[0;39m25 Sep 2023;08:55:07.499 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Start completed.
+[0;39m25 Sep 2023;08:55:07.600 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;08:55:07.669 [restartedMain] [34mINFO [0;39m [36morg.hibernate.Version[0;39m - [32mHHH000412: Hibernate ORM core version 6.2.7.Final
+[0;39m25 Sep 2023;08:55:07.673 [restartedMain] [34mINFO [0;39m [36morg.hibernate.cfg.Environment[0;39m - [32mHHH000406: Using bytecode reflection optimizer
+[0;39m25 Sep 2023;08:55:07.851 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:55:08.025 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;08:55:08.326 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:55:09.045 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;08:55:09.155 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:55:09.824 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;08:55:10.565 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@6d47d8d8, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7ea60fca, org.springframework.security.web.context.SecurityContextHolderFilter@57dd9326, org.springframework.security.web.header.HeaderWriterFilter@56dd79a8, org.springframework.security.web.authentication.logout.LogoutFilter@398e273c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1b1b5b8c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@94224e4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@72494cbe, org.springframework.security.web.access.ExceptionTranslationFilter@627c8e90, org.springframework.security.web.access.intercept.AuthorizationFilter@22b62882]
+[0;39m25 Sep 2023;08:55:10.800 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;08:55:10.843 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;08:55:10.857 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 5.901 seconds (process running for 7.484)
+[0;39m25 Sep 2023;08:56:01.014 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;08:57:01.002 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;08:57:04.024 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[0;39m25 Sep 2023;08:57:04.037 [Thread-5] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;08:57:04.044 [Thread-5] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:57:04.048 [Thread-5] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Shutdown initiated...
+[0;39m25 Sep 2023;08:57:04.089 [Thread-5] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Shutdown completed.
+[0;39m25 Sep 2023;08:57:04.154 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 21664 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;08:57:04.154 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;08:57:04.154 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;08:57:04.356 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;08:57:04.369 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 12 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;08:57:04.495 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;08:57:04.497 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;08:57:04.497 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;08:57:04.534 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;08:57:04.534 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 378 ms
+[0;39m25 Sep 2023;08:57:04.575 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Starting...
+[0;39m25 Sep 2023;08:57:04.589 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1de4ec69
+[0;39m25 Sep 2023;08:57:04.589 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Start completed.
+[0;39m25 Sep 2023;08:57:04.632 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;08:57:04.640 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:57:04.641 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;08:57:04.658 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:57:04.726 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;08:57:04.816 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:57:04.862 [restartedMain] [31mWARN [0;39m [36mo.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext[0;39m - [32mException encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'batchConfiguration' defined in file [C:\Users\LOKESH\Downloads\twitter\twitter\target\classes\com\twitter\config\BatchConfiguration.class]: Encountered invalid @Scheduled method 'runJob': Only no-arg methods may be annotated with @Scheduled
+[0;39m25 Sep 2023;08:57:04.864 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:57:04.864 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Shutdown initiated...
+[0;39m25 Sep 2023;08:57:04.869 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Shutdown completed.
+[0;39m25 Sep 2023;08:57:04.870 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;08:57:04.876 [restartedMain] [34mINFO [0;39m [36mo.s.b.a.l.ConditionEvaluationReportLogger[0;39m - [32m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m25 Sep 2023;08:57:04.893 [restartedMain] [1;31mERROR[0;39m [36mo.s.boot.SpringApplication[0;39m - [32mApplication run failed
+[0;39morg.springframework.beans.factory.BeanCreationException: Error creating bean with name 'batchConfiguration' defined in file [C:\Users\LOKESH\Downloads\twitter\twitter\target\classes\com\twitter\config\BatchConfiguration.class]: Encountered invalid @Scheduled method 'runJob': Only no-arg methods may be annotated with @Scheduled
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:605) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:942) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:608) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:436) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) ~[spring-boot-3.1.3.jar:3.1.3]
+	at com.twitter.TwitterprojectApplication.main(TwitterprojectApplication.java:15) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.1.3.jar:3.1.3]
+Caused by: java.lang.IllegalStateException: Encountered invalid @Scheduled method 'runJob': Only no-arg methods may be annotated with @Scheduled
+	at org.springframework.scheduling.annotation.ScheduledAnnotationBeanPostProcessor.processScheduled(ScheduledAnnotationBeanPostProcessor.java:515) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.scheduling.annotation.ScheduledAnnotationBeanPostProcessor.lambda$postProcessAfterInitialization$1(ScheduledAnnotationBeanPostProcessor.java:377) ~[spring-context-6.0.11.jar:6.0.11]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[na:na]
+	at org.springframework.scheduling.annotation.ScheduledAnnotationBeanPostProcessor.lambda$postProcessAfterInitialization$2(ScheduledAnnotationBeanPostProcessor.java:377) ~[spring-context-6.0.11.jar:6.0.11]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[na:na]
+	at org.springframework.scheduling.annotation.ScheduledAnnotationBeanPostProcessor.postProcessAfterInitialization(ScheduledAnnotationBeanPostProcessor.java:376) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsAfterInitialization(AbstractAutowireCapableBeanFactory.java:434) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1773) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:598) ~[spring-beans-6.0.11.jar:6.0.11]
+	... 20 common frames omitted
+25 Sep 2023;08:57:48.804 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 21664 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;08:57:48.805 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;08:57:48.805 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;08:57:48.981 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;08:57:48.994 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 12 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;08:57:49.116 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;08:57:49.120 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;08:57:49.121 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;08:57:49.154 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-1].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;08:57:49.155 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 347 ms
+[0;39m25 Sep 2023;08:57:49.179 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Starting...
+[0;39m25 Sep 2023;08:57:49.192 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5f879031
+[0;39m25 Sep 2023;08:57:49.193 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Start completed.
+[0;39m25 Sep 2023;08:57:49.219 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;08:57:49.229 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:57:49.229 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;08:57:49.249 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;08:57:49.321 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;08:57:49.420 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;08:57:49.586 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;08:57:50.047 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@23f4693c, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@73df0c4f, org.springframework.security.web.context.SecurityContextHolderFilter@7ee37b07, org.springframework.security.web.header.HeaderWriterFilter@9c53493, org.springframework.security.web.authentication.logout.LogoutFilter@1b688bde, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@79b5944a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5ef72abd, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@212071, org.springframework.security.web.access.ExceptionTranslationFilter@c857c15, org.springframework.security.web.access.intercept.AuthorizationFilter@3f1b3e41]
+[0;39m25 Sep 2023;08:57:50.114 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;08:57:50.127 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;08:57:50.133 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 1.356 seconds (process running for 166.76)
+[0;39m25 Sep 2023;08:57:50.136 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - [32mCondition evaluation unchanged
+[0;39m25 Sep 2023;08:58:01.011 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;08:59:01.003 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:00:01.007 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:01:01.014 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:02:01.006 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:03:01.006 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:04:01.005 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:05:01.015 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:06:01.005 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:07:01.013 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:08:01.006 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:09:01.011 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:10:01.005 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:11:01.003 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:12:01.010 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:13:01.016 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:14:01.008 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:15:01.005 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:16:01.002 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:17:01.006 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:18:01.008 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:19:01.004 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:20:01.006 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:21:01.011 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:22:01.002 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:23:01.001 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:24:01.002 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:25:01.003 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:26:01.009 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:27:01.006 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:28:01.013 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:29:01.012 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:30:01.014 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:31:01.009 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:32:01.015 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:44:41.236 [HikariPool-3 housekeeper] [31mWARN [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=12m21s406ms206µs500ns).
+[0;39m25 Sep 2023;09:44:52.404 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:45:01.004 [scheduling-1] [34mINFO [0;39m [36mc.twitter.component.SchduleExample[0;39m - [32mthis is testing for schdulars
+[0;39m25 Sep 2023;09:45:05.377 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[0;39m25 Sep 2023;09:45:05.482 [Thread-7] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;09:45:05.560 [Thread-7] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;09:45:05.610 [Thread-7] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Shutdown initiated...
+[0;39m25 Sep 2023;09:45:05.617 [Thread-7] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Shutdown completed.
+[0;39m25 Sep 2023;09:45:06.069 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 21664 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;09:45:06.069 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;09:45:06.069 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;09:45:06.413 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;09:45:06.432 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 18 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;09:45:06.552 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;09:45:06.553 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;09:45:06.553 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;09:45:06.575 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-1].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;09:45:06.575 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 503 ms
+[0;39m25 Sep 2023;09:45:06.614 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-4 - Starting...
+[0;39m25 Sep 2023;09:45:06.625 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4c4f3c1a
+[0;39m25 Sep 2023;09:45:06.626 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-4 - Start completed.
+[0;39m25 Sep 2023;09:45:06.661 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;09:45:06.668 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;09:45:06.668 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;09:45:06.685 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;09:45:06.778 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;09:45:06.888 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;09:45:07.066 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;09:45:07.554 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@38b0471, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@774d89f5, org.springframework.security.web.context.SecurityContextHolderFilter@62a4ff7a, org.springframework.security.web.header.HeaderWriterFilter@661c7fee, org.springframework.security.web.authentication.logout.LogoutFilter@21cd6ce3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5ea1a0f0, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3244786c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@400c4b25, org.springframework.security.web.access.ExceptionTranslationFilter@22d9ca12, org.springframework.security.web.access.intercept.AuthorizationFilter@6c82e8d8]
+[0;39m25 Sep 2023;09:45:07.611 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;09:45:07.621 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;09:45:07.626 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 1.611 seconds (process running for 3004.252)
+[0;39m25 Sep 2023;09:45:07.627 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - [32mCondition evaluation unchanged
+[0;39m25 Sep 2023;09:46:49.726 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[0;39m25 Sep 2023;09:46:49.735 [Thread-14] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;09:46:49.740 [Thread-14] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;09:46:49.741 [Thread-14] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-4 - Shutdown initiated...
+[0;39m25 Sep 2023;09:46:49.747 [Thread-14] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-4 - Shutdown completed.
+[0;39m25 Sep 2023;09:46:49.814 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 21664 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;09:46:49.814 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;09:46:49.814 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;09:46:50.002 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;09:46:50.018 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 14 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;09:46:50.110 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;09:46:50.110 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;09:46:50.110 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;09:46:50.127 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-1].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;09:46:50.127 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 311 ms
+[0;39m25 Sep 2023;09:46:50.148 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-5 - Starting...
+[0;39m25 Sep 2023;09:46:50.160 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4e37bfce
+[0;39m25 Sep 2023;09:46:50.160 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-5 - Start completed.
+[0;39m25 Sep 2023;09:46:50.182 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;09:46:50.189 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;09:46:50.189 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;09:46:50.205 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;09:46:50.255 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;09:46:50.342 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;09:46:50.507 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;09:46:50.958 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@5f7eab4, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4843219, org.springframework.security.web.context.SecurityContextHolderFilter@2f521ed5, org.springframework.security.web.header.HeaderWriterFilter@14fad3f0, org.springframework.security.web.authentication.logout.LogoutFilter@60093f23, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4585c3b3, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1db503b7, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@32ae784, org.springframework.security.web.access.ExceptionTranslationFilter@1ce89004, org.springframework.security.web.access.intercept.AuthorizationFilter@59572de4]
+[0;39m25 Sep 2023;09:46:51.030 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;09:46:51.041 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;09:46:51.046 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 1.247 seconds (process running for 3107.673)
+[0;39m25 Sep 2023;09:46:51.047 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - [32mCondition evaluation unchanged
+[0;39m25 Sep 2023;09:47:50.207 [RMI TCP Connection(48)-127.0.0.1] [34mINFO [0;39m [36mo.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin[0;39m - [32mApplication shutdown requested.
+[0;39m25 Sep 2023;09:47:50.214 [RMI TCP Connection(48)-127.0.0.1] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;09:47:50.219 [RMI TCP Connection(48)-127.0.0.1] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;09:47:50.220 [RMI TCP Connection(48)-127.0.0.1] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-5 - Shutdown initiated...
+[0;39m25 Sep 2023;09:47:50.225 [RMI TCP Connection(48)-127.0.0.1] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-5 - Shutdown completed.
+[0;39m25 Sep 2023;09:48:03.794 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 496 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;09:48:03.805 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;09:48:03.806 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;09:48:03.857 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - [32mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[0;39m25 Sep 2023;09:48:03.857 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - [32mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[0;39m25 Sep 2023;09:48:04.604 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;09:48:04.670 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 59 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;09:48:05.180 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;09:48:05.197 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;09:48:05.198 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;09:48:05.262 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;09:48:05.262 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 1405 ms
+[0;39m25 Sep 2023;09:48:05.357 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Starting...
+[0;39m25 Sep 2023;09:48:05.611 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@73cb65b2
+[0;39m25 Sep 2023;09:48:05.613 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Start completed.
+[0;39m25 Sep 2023;09:48:05.734 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;09:48:05.820 [restartedMain] [34mINFO [0;39m [36morg.hibernate.Version[0;39m - [32mHHH000412: Hibernate ORM core version 6.2.7.Final
+[0;39m25 Sep 2023;09:48:05.827 [restartedMain] [34mINFO [0;39m [36morg.hibernate.cfg.Environment[0;39m - [32mHHH000406: Using bytecode reflection optimizer
+[0;39m25 Sep 2023;09:48:06.003 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;09:48:06.141 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;09:48:06.433 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;09:48:07.203 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;09:48:07.340 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;09:48:08.004 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;09:48:08.766 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@73c55867, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@70de3de3, org.springframework.security.web.context.SecurityContextHolderFilter@2d53bb4a, org.springframework.security.web.header.HeaderWriterFilter@47f96bf7, org.springframework.security.web.authentication.logout.LogoutFilter@48f4233d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@16370ab, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4f631d2e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4b187d23, org.springframework.security.web.access.ExceptionTranslationFilter@1f8c9bbb, org.springframework.security.web.access.intercept.AuthorizationFilter@27c49b9f]
+[0;39m25 Sep 2023;09:48:09.015 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;09:48:09.055 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;09:48:09.067 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 5.617 seconds (process running for 6.416)
+[0;39m25 Sep 2023;09:48:32.432 [RMI TCP Connection(2)-127.0.0.1] [34mINFO [0;39m [36mo.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin[0;39m - [32mApplication shutdown requested.
+[0;39m25 Sep 2023;09:48:32.445 [RMI TCP Connection(2)-127.0.0.1] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;09:48:32.463 [RMI TCP Connection(2)-127.0.0.1] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;09:48:32.466 [RMI TCP Connection(2)-127.0.0.1] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Shutdown initiated...
+[0;39m25 Sep 2023;09:48:32.473 [RMI TCP Connection(2)-127.0.0.1] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Shutdown completed.
+[0;39m25 Sep 2023;14:34:55.860 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 18080 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;14:34:55.871 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;14:34:55.872 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;14:34:55.926 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - [32mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[0;39m25 Sep 2023;14:34:55.926 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - [32mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[0;39m25 Sep 2023;14:34:56.720 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;14:34:56.900 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 172 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;14:34:57.460 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;14:34:57.470 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;14:34:57.471 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;14:34:57.538 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;14:34:57.538 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 1611 ms
+[0;39m25 Sep 2023;14:34:57.640 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Starting...
+[0;39m25 Sep 2023;14:34:57.943 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@75ba2170
+[0;39m25 Sep 2023;14:34:57.944 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Start completed.
+[0;39m25 Sep 2023;14:34:58.061 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;14:34:58.136 [restartedMain] [34mINFO [0;39m [36morg.hibernate.Version[0;39m - [32mHHH000412: Hibernate ORM core version 6.2.7.Final
+[0;39m25 Sep 2023;14:34:58.138 [restartedMain] [34mINFO [0;39m [36morg.hibernate.cfg.Environment[0;39m - [32mHHH000406: Using bytecode reflection optimizer
+[0;39m25 Sep 2023;14:34:58.302 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;14:34:58.437 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;14:34:58.725 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;14:34:59.363 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;14:34:59.571 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;14:35:00.234 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;14:35:01.019 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@2a1ec649, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5bb9e8f0, org.springframework.security.web.context.SecurityContextHolderFilter@29bac95a, org.springframework.security.web.header.HeaderWriterFilter@4abe2858, org.springframework.security.web.authentication.logout.LogoutFilter@26ecc79c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1c0ecff, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2f76a8e3, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2ca01d23, org.springframework.security.web.access.ExceptionTranslationFilter@708ec9f8, org.springframework.security.web.access.intercept.AuthorizationFilter@237a4587]
+[0;39m25 Sep 2023;14:35:01.243 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;14:35:01.292 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;14:35:01.308 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 5.81 seconds (process running for 6.636)
+[0;39m25 Sep 2023;14:36:49.814 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m25 Sep 2023;14:36:49.816 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - [32mInitializing Servlet 'dispatcherServlet'
+[0;39m25 Sep 2023;14:36:49.818 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - [32mCompleted initialization in 2 ms
+[0;39m25 Sep 2023;14:40:10.115 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[0;39m25 Sep 2023;14:40:10.125 [Thread-5] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;14:40:10.126 [Thread-5] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mDestroying Spring FrameworkServlet 'dispatcherServlet'
+[0;39m25 Sep 2023;14:40:10.133 [Thread-5] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;14:40:10.136 [Thread-5] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Shutdown initiated...
+[0;39m25 Sep 2023;14:40:10.167 [Thread-5] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Shutdown completed.
+[0;39m25 Sep 2023;14:40:10.236 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 18080 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;14:40:10.236 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;14:40:10.237 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;14:40:10.433 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;14:40:10.449 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 16 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;14:40:10.563 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;14:40:10.565 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;14:40:10.565 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;14:40:10.590 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;14:40:10.590 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 350 ms
+[0;39m25 Sep 2023;14:40:10.621 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Starting...
+[0;39m25 Sep 2023;14:40:10.634 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4cbc5852
+[0;39m25 Sep 2023;14:40:10.634 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Start completed.
+[0;39m25 Sep 2023;14:40:10.665 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;14:40:10.671 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;14:40:10.671 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;14:40:10.688 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;14:40:10.749 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;14:40:10.831 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;14:40:10.979 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;14:40:11.464 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@3bda3225, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4ab2a9d0, org.springframework.security.web.context.SecurityContextHolderFilter@18cc80ab, org.springframework.security.web.header.HeaderWriterFilter@666c52dd, org.springframework.security.web.authentication.logout.LogoutFilter@5b755d8b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@59b9f500, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@233e0c00, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1288e0a4, org.springframework.security.web.access.ExceptionTranslationFilter@5c84cf38, org.springframework.security.web.access.intercept.AuthorizationFilter@1e7ff9a2]
+[0;39m25 Sep 2023;14:40:11.513 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;14:40:11.529 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;14:40:11.535 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 1.321 seconds (process running for 316.864)
+[0;39m25 Sep 2023;14:40:11.537 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - [32mCondition evaluation unchanged
+[0;39m25 Sep 2023;14:40:20.774 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+[0;39m25 Sep 2023;14:40:20.993 [Thread-7] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;14:40:21.034 [Thread-7] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;14:40:21.199 [Thread-7] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Shutdown initiated...
+[0;39m25 Sep 2023;14:40:21.286 [Thread-7] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Shutdown completed.
+[0;39m25 Sep 2023;14:40:22.886 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 18080 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;14:40:22.886 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;14:40:22.887 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;14:40:25.782 [restartedMain] [1;31mERROR[0;39m [36mo.s.boot.SpringApplication[0;39m - [32mApplication run failed
+[0;39mjava.lang.IllegalStateException: Error processing condition on org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration.propertySourcesPlaceholderConfigurer
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:60) ~[spring-boot-autoconfigure-3.1.3.jar:3.1.3]
+	at org.springframework.context.annotation.ConditionEvaluator.shouldSkip(ConditionEvaluator.java:108) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForBeanMethod(ConfigurationClassBeanDefinitionReader.java:183) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:144) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:120) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:427) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:287) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:344) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:115) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:771) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:589) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:436) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) ~[spring-boot-3.1.3.jar:3.1.3]
+	at com.twitter.TwitterprojectApplication.main(TwitterprojectApplication.java:24) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.1.3.jar:3.1.3]
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.twitter.config.BatchConfiguration] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@3814e2b1]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:360) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:417) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$1(AbstractAutowireCapableBeanFactory.java:748) ~[spring-beans-6.0.11.jar:6.0.11]
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[na:na]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:747) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:680) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:651) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1632) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:560) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:532) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.collectBeanNamesForType(OnBeanCondition.java:246) ~[spring-boot-autoconfigure-3.1.3.jar:3.1.3]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getBeanNamesForType(OnBeanCondition.java:239) ~[spring-boot-autoconfigure-3.1.3.jar:3.1.3]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getBeanNamesForType(OnBeanCondition.java:229) ~[spring-boot-autoconfigure-3.1.3.jar:3.1.3]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchingBeans(OnBeanCondition.java:182) ~[spring-boot-autoconfigure-3.1.3.jar:3.1.3]
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchOutcome(OnBeanCondition.java:157) ~[spring-boot-autoconfigure-3.1.3.jar:3.1.3]
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:47) ~[spring-boot-autoconfigure-3.1.3.jar:3.1.3]
+	... 22 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: com/twitter/config/EmployeeProcessor
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3402) ~[na:na]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2504) ~[na:na]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-6.0.11.jar:6.0.11]
+	... 38 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.twitter.config.EmployeeProcessor
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[na:na]
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[na:na]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[na:na]
+	at java.base/java.lang.Class.forName0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.forName(Class.java:467) ~[na:na]
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:121) ~[spring-boot-devtools-3.1.3.jar:3.1.3]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[na:na]
+	... 42 common frames omitted
+25 Sep 2023;14:40:26.015 [restartedMain] [31mWARN [0;39m [36mo.s.boot.SpringApplication[0;39m - [32mUnable to close ApplicationContext
+[0;39mjava.lang.IllegalStateException: Failed to introspect Class [com.twitter.config.BatchConfiguration] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@3814e2b1]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:360) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:417) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$1(AbstractAutowireCapableBeanFactory.java:748) ~[spring-beans-6.0.11.jar:6.0.11]
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[na:na]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:747) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:680) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:651) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1632) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:560) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:532) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:659) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:651) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.getBeansOfType(AbstractApplicationContext.java:1301) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.boot.SpringApplication.getExitCodeFromMappedException(SpringApplication.java:867) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.getExitCodeFromException(SpringApplication.java:855) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.handleExitCode(SpringApplication.java:842) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:782) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:325) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) ~[spring-boot-3.1.3.jar:3.1.3]
+	at com.twitter.TwitterprojectApplication.main(TwitterprojectApplication.java:24) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.1.3.jar:3.1.3]
+Caused by: java.lang.NoClassDefFoundError: com/twitter/config/EmployeeProcessor
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3402) ~[na:na]
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2504) ~[na:na]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465) ~[spring-core-6.0.11.jar:6.0.11]
+	... 26 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.twitter.config.EmployeeProcessor
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[na:na]
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[na:na]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[na:na]
+	at java.base/java.lang.Class.forName0(Native Method) ~[na:na]
+	at java.base/java.lang.Class.forName(Class.java:467) ~[na:na]
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:121) ~[spring-boot-devtools-3.1.3.jar:3.1.3]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[na:na]
+	... 30 common frames omitted
+25 Sep 2023;14:40:28.182 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - [32mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[0;39m25 Sep 2023;14:40:28.182 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - [32mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[0;39m25 Sep 2023;14:40:28.188 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 18080 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;14:40:28.189 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;14:40:28.190 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;14:40:28.851 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;14:40:28.865 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 13 ms. Found 0 JPA repository interfaces.
+[0;39m25 Sep 2023;14:40:29.231 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8080 (http)
+[0;39m25 Sep 2023;14:40:29.232 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;14:40:29.232 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;14:40:29.302 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;14:40:29.305 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 1112 ms
+[0;39m25 Sep 2023;14:40:29.362 [restartedMain] [31mWARN [0;39m [36mo.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext[0;39m - [32mException encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'dataSourceScriptDatabaseInitializer' defined in class path resource [org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.class]: Unsatisfied dependency expressed through method 'dataSourceScriptDatabaseInitializer' parameter 0: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception with message: Failed to determine a suitable driver class
+[0;39m25 Sep 2023;14:40:29.367 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;14:40:29.378 [restartedMain] [34mINFO [0;39m [36mo.s.b.a.l.ConditionEvaluationReportLogger[0;39m - [32m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m25 Sep 2023;14:40:29.384 [restartedMain] [1;31mERROR[0;39m [36mo.s.b.d.LoggingFailureAnalysisReporter[0;39m - [32m
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+[0;39m25 Sep 2023;14:40:34.452 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 18080 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;14:40:34.452 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;14:40:34.452 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;14:40:34.683 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;14:40:34.702 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 17 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;14:40:34.790 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;14:40:34.792 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;14:40:34.792 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;14:40:34.812 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-1].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;14:40:34.812 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 358 ms
+[0;39m25 Sep 2023;14:40:34.845 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Starting...
+[0;39m25 Sep 2023;14:40:34.856 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3e63f8f4
+[0;39m25 Sep 2023;14:40:34.856 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Start completed.
+[0;39m25 Sep 2023;14:40:34.882 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;14:40:34.890 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;14:40:34.890 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;14:40:34.909 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;14:40:34.973 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;14:40:35.053 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;14:40:35.059 [restartedMain] [31mWARN [0;39m [36mo.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext[0;39m - [32mException encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterprojectApplication': Unsatisfied dependency expressed through field 'twilioConfig': No qualifying bean of type 'com.twitter.config.TwilioConfig' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+[0;39m25 Sep 2023;14:40:35.059 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;14:40:35.059 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Shutdown initiated...
+[0;39m25 Sep 2023;14:40:35.077 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Shutdown completed.
+[0;39m25 Sep 2023;14:40:35.078 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;14:40:35.083 [restartedMain] [34mINFO [0;39m [36mo.s.b.a.l.ConditionEvaluationReportLogger[0;39m - [32m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m25 Sep 2023;14:40:35.089 [restartedMain] [1;31mERROR[0;39m [36mo.s.b.d.LoggingFailureAnalysisReporter[0;39m - [32m
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field twilioConfig in com.twitter.TwitterprojectApplication required a bean of type 'com.twitter.config.TwilioConfig' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.twitter.config.TwilioConfig' in your configuration.
+
+[0;39m25 Sep 2023;15:06:53.353 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 4588 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;15:06:53.369 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;15:06:53.371 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;15:06:53.425 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - [32mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[0;39m25 Sep 2023;15:06:53.426 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.e.DevToolsPropertyDefaultsPostProcessor[0;39m - [32mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[0;39m25 Sep 2023;15:06:54.243 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;15:06:54.443 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 191 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;15:06:55.068 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;15:06:55.079 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;15:06:55.079 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;15:06:55.145 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;15:06:55.145 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 1719 ms
+[0;39m25 Sep 2023;15:06:55.241 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Starting...
+[0;39m25 Sep 2023;15:06:55.584 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@36bb466b
+[0;39m25 Sep 2023;15:06:55.586 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Start completed.
+[0;39m25 Sep 2023;15:06:55.718 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;15:06:55.797 [restartedMain] [34mINFO [0;39m [36morg.hibernate.Version[0;39m - [32mHHH000412: Hibernate ORM core version 6.2.7.Final
+[0;39m25 Sep 2023;15:06:55.800 [restartedMain] [34mINFO [0;39m [36morg.hibernate.cfg.Environment[0;39m - [32mHHH000406: Using bytecode reflection optimizer
+[0;39m25 Sep 2023;15:06:55.961 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:06:56.099 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;15:06:56.381 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:06:57.136 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;15:06:57.261 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:06:57.966 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;15:06:58.745 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@471f3a99, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@42b916bb, org.springframework.security.web.context.SecurityContextHolderFilter@361daffe, org.springframework.security.web.header.HeaderWriterFilter@1e5899a7, org.springframework.security.web.authentication.logout.LogoutFilter@60fa03d7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4cc8c271, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@38b5720, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1dc43fc3, org.springframework.security.web.access.ExceptionTranslationFilter@69d152d7, org.springframework.security.web.access.intercept.AuthorizationFilter@681da7d6]
+[0;39m25 Sep 2023;15:06:58.971 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;15:06:59.015 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;15:06:59.029 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 6.29 seconds (process running for 7.162)
+[0;39m25 Sep 2023;15:07:07.731 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m25 Sep 2023;15:07:07.732 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - [32mInitializing Servlet 'dispatcherServlet'
+[0;39m25 Sep 2023;15:07:07.734 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - [32mCompleted initialization in 2 ms
+[0;39m25 Sep 2023;15:13:48.223 [HikariPool-1 housekeeper] [31mWARN [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m52s442ms570µs300ns).
+[0;39m25 Sep 2023;15:26:13.193 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 2 class path changes (0 additions, 0 deletions, 2 modifications)
+[0;39m25 Sep 2023;15:26:13.372 [Thread-5] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;15:26:13.389 [Thread-5] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mDestroying Spring FrameworkServlet 'dispatcherServlet'
+[0;39m25 Sep 2023;15:26:13.516 [Thread-5] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:26:13.596 [Thread-5] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Shutdown initiated...
+[0;39m25 Sep 2023;15:26:13.705 [Thread-5] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-1 - Shutdown completed.
+[0;39m25 Sep 2023;15:26:13.989 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 4588 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;15:26:13.990 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;15:26:13.990 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;15:26:14.317 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;15:26:14.341 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 23 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;15:26:14.470 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;15:26:14.470 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;15:26:14.471 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;15:26:14.493 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;15:26:14.493 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 498 ms
+[0;39m25 Sep 2023;15:26:14.516 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Starting...
+[0;39m25 Sep 2023;15:26:14.534 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a345d8
+[0;39m25 Sep 2023;15:26:14.534 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Start completed.
+[0;39m25 Sep 2023;15:26:14.568 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;15:26:14.575 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:26:14.576 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;15:26:14.597 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:26:14.684 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;15:26:14.760 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:26:14.914 [restartedMain] [31mWARN [0;39m [36mo.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext[0;39m - [32mException encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'twilioHandler' defined in file [C:\Users\LOKESH\Downloads\twitter\twitter\target\classes\com\twitter\resource\TwilioHandler.class]: Failed to instantiate [com.twitter.resource.TwilioHandler]: Constructor threw exception
+[0;39m25 Sep 2023;15:26:14.915 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:26:14.915 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Shutdown initiated...
+[0;39m25 Sep 2023;15:26:14.919 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-2 - Shutdown completed.
+[0;39m25 Sep 2023;15:26:14.920 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;15:26:14.925 [restartedMain] [34mINFO [0;39m [36mo.s.b.a.l.ConditionEvaluationReportLogger[0;39m - [32m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m25 Sep 2023;15:26:14.942 [restartedMain] [1;31mERROR[0;39m [36mo.s.boot.SpringApplication[0;39m - [32mApplication run failed
+[0;39morg.springframework.beans.factory.BeanCreationException: Error creating bean with name 'twilioHandler' defined in file [C:\Users\LOKESH\Downloads\twitter\twitter\target\classes\com\twitter\resource\TwilioHandler.class]: Failed to instantiate [com.twitter.resource.TwilioHandler]: Constructor threw exception
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1314) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1199) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:942) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:608) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:436) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) ~[spring-boot-3.1.3.jar:3.1.3]
+	at com.twitter.TwitterprojectApplication.main(TwitterprojectApplication.java:24) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.1.3.jar:3.1.3]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.twitter.resource.TwilioHandler]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1308) ~[spring-beans-6.0.11.jar:6.0.11]
+	... 22 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	Cannot infer type argument(s) for <R> flatMap(Function<? super T,? extends Mono<? extends R>>)
+	The method getOneTimePassword() is undefined for the type PasswordResetRequestDto
+
+	at com.twitter.resource.TwilioHandler.<init>(TwilioHandler.java:27) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[na:na]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:198) ~[spring-beans-6.0.11.jar:6.0.11]
+	... 24 common frames omitted
+25 Sep 2023;15:26:25.816 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 4588 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;15:26:25.816 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;15:26:25.817 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;15:26:26.007 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;15:26:26.025 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 18 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;15:26:26.112 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;15:26:26.113 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;15:26:26.113 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;15:26:26.134 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-1].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;15:26:26.134 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 313 ms
+[0;39m25 Sep 2023;15:26:26.164 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Starting...
+[0;39m25 Sep 2023;15:26:26.174 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@461c08d7
+[0;39m25 Sep 2023;15:26:26.174 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Start completed.
+[0;39m25 Sep 2023;15:26:26.204 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;15:26:26.212 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:26:26.212 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;15:26:26.230 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:26:26.317 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;15:26:26.388 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:26:26.545 [restartedMain] [31mWARN [0;39m [36mo.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext[0;39m - [32mException encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handleSms' defined in class path resource [com/twitter/resource/TwilioRouterConfig.class]: Failed to instantiate [org.springframework.web.reactive.function.server.RouterFunction]: Factory method 'handleSms' threw exception with message: Unresolved compilation problems: 
+	The method POST(String, HandlerFunction<ServerResponse>) in the type RouterFunctions.Builder is not applicable for the arguments (String, twilioHandler::validateOtp)
+	The type TwilioHandler does not define validateOtp(ServerRequest) that is applicable here
+
+[0;39m25 Sep 2023;15:26:26.546 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:26:26.547 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Shutdown initiated...
+[0;39m25 Sep 2023;15:26:26.564 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-3 - Shutdown completed.
+[0;39m25 Sep 2023;15:26:26.565 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;15:26:26.571 [restartedMain] [34mINFO [0;39m [36mo.s.b.a.l.ConditionEvaluationReportLogger[0;39m - [32m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m25 Sep 2023;15:26:26.575 [restartedMain] [1;31mERROR[0;39m [36mo.s.boot.SpringApplication[0;39m - [32mApplication run failed
+[0;39morg.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handleSms' defined in class path resource [com/twitter/resource/TwilioRouterConfig.class]: Failed to instantiate [org.springframework.web.reactive.function.server.RouterFunction]: Factory method 'handleSms' threw exception with message: Unresolved compilation problems: 
+	The method POST(String, HandlerFunction<ServerResponse>) in the type RouterFunctions.Builder is not applicable for the arguments (String, twilioHandler::validateOtp)
+	The type TwilioHandler does not define validateOtp(ServerRequest) that is applicable here
+
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:659) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:493) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1332) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1162) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:942) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:608) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:436) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) ~[spring-boot-3.1.3.jar:3.1.3]
+	at com.twitter.TwitterprojectApplication.main(TwitterprojectApplication.java:24) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.1.3.jar:3.1.3]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.reactive.function.server.RouterFunction]: Factory method 'handleSms' threw exception with message: Unresolved compilation problems: 
+	The method POST(String, HandlerFunction<ServerResponse>) in the type RouterFunctions.Builder is not applicable for the arguments (String, twilioHandler::validateOtp)
+	The type TwilioHandler does not define validateOtp(ServerRequest) that is applicable here
+
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:171) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:655) ~[spring-beans-6.0.11.jar:6.0.11]
+	... 24 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	The method POST(String, HandlerFunction<ServerResponse>) in the type RouterFunctions.Builder is not applicable for the arguments (String, twilioHandler::validateOtp)
+	The type TwilioHandler does not define validateOtp(ServerRequest) that is applicable here
+
+	at com.twitter.resource.TwilioRouterConfig.handleSms(TwilioRouterConfig.java:19) ~[classes/:na]
+	at com.twitter.resource.TwilioRouterConfig$$SpringCGLIB$$0.CGLIB$handleSms$0(<generated>) ~[classes/:na]
+	at com.twitter.resource.TwilioRouterConfig$$SpringCGLIB$$2.invoke(<generated>) ~[classes/:na]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:258) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331) ~[spring-context-6.0.11.jar:6.0.11]
+	at com.twitter.resource.TwilioRouterConfig$$SpringCGLIB$$0.handleSms(<generated>) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:139) ~[spring-beans-6.0.11.jar:6.0.11]
+	... 25 common frames omitted
+25 Sep 2023;15:26:59.031 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 4588 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;15:26:59.032 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;15:26:59.032 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;15:26:59.219 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;15:26:59.232 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 12 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;15:26:59.328 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;15:26:59.328 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;15:26:59.329 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;15:26:59.349 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-2].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;15:26:59.349 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 316 ms
+[0;39m25 Sep 2023;15:26:59.379 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-4 - Starting...
+[0;39m25 Sep 2023;15:26:59.392 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-4 - Added connection com.mysql.cj.jdbc.ConnectionImpl@f760391
+[0;39m25 Sep 2023;15:26:59.392 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-4 - Start completed.
+[0;39m25 Sep 2023;15:26:59.417 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;15:26:59.423 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:26:59.423 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;15:26:59.440 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:26:59.489 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;15:26:59.569 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:26:59.770 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;15:27:00.274 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@1250cb08, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3b8d2394, org.springframework.security.web.context.SecurityContextHolderFilter@5e55eb11, org.springframework.security.web.header.HeaderWriterFilter@60cc20eb, org.springframework.security.web.authentication.logout.LogoutFilter@1b064e58, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@71b58af9, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6bb09380, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@32d19483, org.springframework.security.web.access.ExceptionTranslationFilter@771da057, org.springframework.security.web.access.intercept.AuthorizationFilter@29fa5a47]
+[0;39m25 Sep 2023;15:27:00.326 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;15:27:00.339 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;15:27:00.346 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 1.337 seconds (process running for 1208.478)
+[0;39m25 Sep 2023;15:27:00.348 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - [32mCondition evaluation unchanged
+[0;39m25 Sep 2023;15:27:05.633 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-2].[localhost].[/][0;39m - [32mInitializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m25 Sep 2023;15:27:05.633 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - [32mInitializing Servlet 'dispatcherServlet'
+[0;39m25 Sep 2023;15:27:05.634 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - [32mCompleted initialization in 1 ms
+[0;39m25 Sep 2023;15:27:16.488 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[0;39m25 Sep 2023;15:27:16.541 [Thread-7] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;15:27:16.546 [Thread-7] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-2].[localhost].[/][0;39m - [32mDestroying Spring FrameworkServlet 'dispatcherServlet'
+[0;39m25 Sep 2023;15:27:16.561 [Thread-7] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:27:16.563 [Thread-7] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-4 - Shutdown initiated...
+[0;39m25 Sep 2023;15:27:16.572 [Thread-7] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-4 - Shutdown completed.
+[0;39m25 Sep 2023;15:27:16.676 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 4588 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;15:27:16.677 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;15:27:16.678 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;15:27:16.938 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;15:27:16.954 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 15 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;15:27:17.039 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;15:27:17.039 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;15:27:17.040 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;15:27:17.061 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-2].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;15:27:17.061 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 381 ms
+[0;39m25 Sep 2023;15:27:17.101 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-5 - Starting...
+[0;39m25 Sep 2023;15:27:17.111 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-5 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2135928c
+[0;39m25 Sep 2023;15:27:17.111 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-5 - Start completed.
+[0;39m25 Sep 2023;15:27:17.141 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;15:27:17.151 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:27:17.151 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;15:27:17.172 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:27:17.217 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;15:27:17.269 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:27:17.485 [restartedMain] [31mWARN [0;39m [36mo.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext[0;39m - [32mException encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handleSms' defined in class path resource [com/twitter/resource/TwilioRouterConfig.class]: Failed to instantiate [org.springframework.web.reactive.function.server.RouterFunction]: Factory method 'handleSms' threw exception with message: Unresolved compilation problems: 
+	The method POST(String, HandlerFunction<ServerResponse>) in the type RouterFunctions.Builder is not applicable for the arguments (String, twilioHandler::validateOtp)
+	The type TwilioHandler does not define validateOtp(ServerRequest) that is applicable here
+
+[0;39m25 Sep 2023;15:27:17.486 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:27:17.487 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-5 - Shutdown initiated...
+[0;39m25 Sep 2023;15:27:17.497 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-5 - Shutdown completed.
+[0;39m25 Sep 2023;15:27:17.497 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;15:27:17.503 [restartedMain] [34mINFO [0;39m [36mo.s.b.a.l.ConditionEvaluationReportLogger[0;39m - [32m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m25 Sep 2023;15:27:17.506 [restartedMain] [1;31mERROR[0;39m [36mo.s.boot.SpringApplication[0;39m - [32mApplication run failed
+[0;39morg.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handleSms' defined in class path resource [com/twitter/resource/TwilioRouterConfig.class]: Failed to instantiate [org.springframework.web.reactive.function.server.RouterFunction]: Factory method 'handleSms' threw exception with message: Unresolved compilation problems: 
+	The method POST(String, HandlerFunction<ServerResponse>) in the type RouterFunctions.Builder is not applicable for the arguments (String, twilioHandler::validateOtp)
+	The type TwilioHandler does not define validateOtp(ServerRequest) that is applicable here
+
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:659) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:493) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1332) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1162) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:942) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:608) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:436) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) ~[spring-boot-3.1.3.jar:3.1.3]
+	at com.twitter.TwitterprojectApplication.main(TwitterprojectApplication.java:24) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.1.3.jar:3.1.3]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.reactive.function.server.RouterFunction]: Factory method 'handleSms' threw exception with message: Unresolved compilation problems: 
+	The method POST(String, HandlerFunction<ServerResponse>) in the type RouterFunctions.Builder is not applicable for the arguments (String, twilioHandler::validateOtp)
+	The type TwilioHandler does not define validateOtp(ServerRequest) that is applicable here
+
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:171) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:655) ~[spring-beans-6.0.11.jar:6.0.11]
+	... 24 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	The method POST(String, HandlerFunction<ServerResponse>) in the type RouterFunctions.Builder is not applicable for the arguments (String, twilioHandler::validateOtp)
+	The type TwilioHandler does not define validateOtp(ServerRequest) that is applicable here
+
+	at com.twitter.resource.TwilioRouterConfig.handleSms(TwilioRouterConfig.java:19) ~[classes/:na]
+	at com.twitter.resource.TwilioRouterConfig$$SpringCGLIB$$0.CGLIB$handleSms$0(<generated>) ~[classes/:na]
+	at com.twitter.resource.TwilioRouterConfig$$SpringCGLIB$$2.invoke(<generated>) ~[classes/:na]
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:258) ~[spring-core-6.0.11.jar:6.0.11]
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331) ~[spring-context-6.0.11.jar:6.0.11]
+	at com.twitter.resource.TwilioRouterConfig$$SpringCGLIB$$0.handleSms(<generated>) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:139) ~[spring-beans-6.0.11.jar:6.0.11]
+	... 25 common frames omitted
+25 Sep 2023;15:27:23.104 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 4588 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;15:27:23.107 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;15:27:23.107 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;15:27:23.281 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;15:27:23.293 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 11 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;15:27:23.384 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;15:27:23.384 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;15:27:23.384 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;15:27:23.403 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-3].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;15:27:23.403 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 293 ms
+[0;39m25 Sep 2023;15:27:23.424 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-6 - Starting...
+[0;39m25 Sep 2023;15:27:23.436 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-6 - Added connection com.mysql.cj.jdbc.ConnectionImpl@665f0efd
+[0;39m25 Sep 2023;15:27:23.436 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-6 - Start completed.
+[0;39m25 Sep 2023;15:27:23.458 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;15:27:23.464 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:27:23.464 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;15:27:23.478 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:27:23.518 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;15:27:23.573 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:27:23.701 [restartedMain] [31mWARN [0;39m [36mo.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext[0;39m - [32mException encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'twilioHandler' defined in file [C:\Users\LOKESH\Downloads\twitter\twitter\target\classes\com\twitter\resource\TwilioHandler.class]: Failed to instantiate [com.twitter.resource.TwilioHandler]: Constructor threw exception
+[0;39m25 Sep 2023;15:27:23.701 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:27:23.701 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-6 - Shutdown initiated...
+[0;39m25 Sep 2023;15:27:23.705 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-6 - Shutdown completed.
+[0;39m25 Sep 2023;15:27:23.705 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;15:27:23.710 [restartedMain] [34mINFO [0;39m [36mo.s.b.a.l.ConditionEvaluationReportLogger[0;39m - [32m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[0;39m25 Sep 2023;15:27:23.713 [restartedMain] [1;31mERROR[0;39m [36mo.s.boot.SpringApplication[0;39m - [32mApplication run failed
+[0;39morg.springframework.beans.factory.BeanCreationException: Error creating bean with name 'twilioHandler' defined in file [C:\Users\LOKESH\Downloads\twitter\twitter\target\classes\com\twitter\resource\TwilioHandler.class]: Failed to instantiate [com.twitter.resource.TwilioHandler]: Constructor threw exception
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1314) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1199) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:942) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:608) ~[spring-context-6.0.11.jar:6.0.11]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:436) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306) ~[spring-boot-3.1.3.jar:3.1.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295) ~[spring-boot-3.1.3.jar:3.1.3]
+	at com.twitter.TwitterprojectApplication.main(TwitterprojectApplication.java:24) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50) ~[spring-boot-devtools-3.1.3.jar:3.1.3]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.twitter.resource.TwilioHandler]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87) ~[spring-beans-6.0.11.jar:6.0.11]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1308) ~[spring-beans-6.0.11.jar:6.0.11]
+	... 22 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	Cannot infer type argument(s) for <R> flatMap(Function<? super T,? extends Mono<? extends R>>)
+	The method getOneTimePassword() is undefined for the type PasswordResetRequestDto
+
+	at com.twitter.resource.TwilioHandler.<init>(TwilioHandler.java:27) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[na:na]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[na:na]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:198) ~[spring-beans-6.0.11.jar:6.0.11]
+	... 24 common frames omitted
+25 Sep 2023;15:27:31.307 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 4588 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;15:27:31.308 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;15:27:31.308 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;15:27:31.478 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;15:27:31.490 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 11 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;15:27:31.569 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;15:27:31.569 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;15:27:31.570 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;15:27:31.588 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-4].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;15:27:31.588 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 278 ms
+[0;39m25 Sep 2023;15:27:31.614 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-7 - Starting...
+[0;39m25 Sep 2023;15:27:31.622 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-7 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1714c64c
+[0;39m25 Sep 2023;15:27:31.622 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-7 - Start completed.
+[0;39m25 Sep 2023;15:27:31.644 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;15:27:31.650 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:27:31.650 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;15:27:31.663 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:27:31.707 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;15:27:31.762 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:27:31.915 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;15:27:32.505 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@6e749569, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@49782a1c, org.springframework.security.web.context.SecurityContextHolderFilter@d03f9b6, org.springframework.security.web.header.HeaderWriterFilter@2a1c9328, org.springframework.security.web.authentication.logout.LogoutFilter@33628922, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3f0edacc, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6f7541ef, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2c071426, org.springframework.security.web.access.ExceptionTranslationFilter@70d40fe5, org.springframework.security.web.access.intercept.AuthorizationFilter@3fccb1a0]
+[0;39m25 Sep 2023;15:27:32.565 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;15:27:32.578 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;15:27:32.583 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 1.299 seconds (process running for 1240.715)
+[0;39m25 Sep 2023;15:27:32.584 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - [32mCondition evaluation unchanged
+[0;39m25 Sep 2023;15:27:38.471 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-4].[localhost].[/][0;39m - [32mInitializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m25 Sep 2023;15:27:38.471 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - [32mInitializing Servlet 'dispatcherServlet'
+[0;39m25 Sep 2023;15:27:38.472 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - [32mCompleted initialization in 1 ms
+[0;39m25 Sep 2023;15:32:12.456 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[0;39m25 Sep 2023;15:32:12.501 [Thread-17] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;15:32:12.502 [Thread-17] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-4].[localhost].[/][0;39m - [32mDestroying Spring FrameworkServlet 'dispatcherServlet'
+[0;39m25 Sep 2023;15:32:12.506 [Thread-17] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:32:12.507 [Thread-17] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-7 - Shutdown initiated...
+[0;39m25 Sep 2023;15:32:12.512 [Thread-17] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-7 - Shutdown completed.
+[0;39m25 Sep 2023;15:32:12.585 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 4588 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;15:32:12.585 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;15:32:12.585 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;15:32:12.805 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;15:32:12.820 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 14 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;15:32:12.930 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;15:32:12.936 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;15:32:12.936 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;15:32:12.957 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-4].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;15:32:12.957 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 371 ms
+[0;39m25 Sep 2023;15:32:12.982 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-8 - Starting...
+[0;39m25 Sep 2023;15:32:12.994 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-8 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7bb7f283
+[0;39m25 Sep 2023;15:32:12.994 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-8 - Start completed.
+[0;39m25 Sep 2023;15:32:13.017 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;15:32:13.023 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:32:13.023 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;15:32:13.039 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:32:13.080 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;15:32:13.139 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:32:13.300 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;15:32:13.909 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@60c79833, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4687134c, org.springframework.security.web.context.SecurityContextHolderFilter@7cd012e7, org.springframework.security.web.header.HeaderWriterFilter@31adbaec, org.springframework.security.web.authentication.logout.LogoutFilter@1937f640, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@75ebfe16, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@139b6307, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3c80c1bd, org.springframework.security.web.access.ExceptionTranslationFilter@3cfb4da9, org.springframework.security.web.access.intercept.AuthorizationFilter@50e2eae8]
+[0;39m25 Sep 2023;15:32:13.981 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;15:32:13.990 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;15:32:13.997 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 1.432 seconds (process running for 1522.129)
+[0;39m25 Sep 2023;15:32:13.998 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - [32mCondition evaluation unchanged
+[0;39m25 Sep 2023;15:32:19.188 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-4].[localhost].[/][0;39m - [32mInitializing Spring DispatcherServlet 'dispatcherServlet'
+[0;39m25 Sep 2023;15:32:19.188 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - [32mInitializing Servlet 'dispatcherServlet'
+[0;39m25 Sep 2023;15:32:19.189 [http-nio-8082-exec-2] [34mINFO [0;39m [36mo.s.web.servlet.DispatcherServlet[0;39m - [32mCompleted initialization in 1 ms
+[0;39m25 Sep 2023;15:35:43.514 [File Watcher] [34mINFO [0;39m [36mo.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener[0;39m - [32mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[0;39m25 Sep 2023;15:35:43.532 [Thread-27] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;15:35:43.533 [Thread-27] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-4].[localhost].[/][0;39m - [32mDestroying Spring FrameworkServlet 'dispatcherServlet'
+[0;39m25 Sep 2023;15:35:43.541 [Thread-27] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:35:43.543 [Thread-27] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-8 - Shutdown initiated...
+[0;39m25 Sep 2023;15:35:43.560 [Thread-27] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-8 - Shutdown completed.
+[0;39m25 Sep 2023;15:35:43.648 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarting TwitterprojectApplication using Java 17.0.6 with PID 4588 (C:\Users\LOKESH\Downloads\twitter\twitter\target\classes started by LOKESH in C:\Users\LOKESH\Downloads\twitter\twitter)
+[0;39m25 Sep 2023;15:35:43.648 [restartedMain] [39mDEBUG[0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mRunning with Spring Boot v3.1.3, Spring v6.0.11
+[0;39m25 Sep 2023;15:35:43.648 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mNo active profile set, falling back to 1 default profile: "default"
+[0;39m25 Sep 2023;15:35:43.862 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mBootstrapping Spring Data JPA repositories in DEFAULT mode.
+[0;39m25 Sep 2023;15:35:43.874 [restartedMain] [34mINFO [0;39m [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - [32mFinished Spring Data repository scanning in 12 ms. Found 4 JPA repository interfaces.
+[0;39m25 Sep 2023;15:35:43.961 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat initialized with port(s): 8082 (http)
+[0;39m25 Sep 2023;15:35:43.961 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStarting service [Tomcat]
+[0;39m25 Sep 2023;15:35:43.961 [restartedMain] [34mINFO [0;39m [36mo.a.catalina.core.StandardEngine[0;39m - [32mStarting Servlet engine: [Apache Tomcat/10.1.12]
+[0;39m25 Sep 2023;15:35:43.978 [restartedMain] [34mINFO [0;39m [36mo.a.c.c.C.[Tomcat-4].[localhost].[/][0;39m - [32mInitializing Spring embedded WebApplicationContext
+[0;39m25 Sep 2023;15:35:43.978 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - [32mRoot WebApplicationContext: initialization completed in 329 ms
+[0;39m25 Sep 2023;15:35:44.000 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-9 - Starting...
+[0;39m25 Sep 2023;15:35:44.023 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-9 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4723192a
+[0;39m25 Sep 2023;15:35:44.023 [restartedMain] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-9 - Start completed.
+[0;39m25 Sep 2023;15:35:44.050 [restartedMain] [34mINFO [0;39m [36mo.h.jpa.internal.util.LogHelper[0;39m - [32mHHH000204: Processing PersistenceUnitInfo [name: default]
+[0;39m25 Sep 2023;15:35:44.059 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:35:44.059 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.p.SpringPersistenceUnitInfo[0;39m - [32mNo LoadTimeWeaver setup: ignoring JPA class transformer
+[0;39m25 Sep 2023;15:35:44.075 [restartedMain] [34mINFO [0;39m [36mo.h.b.i.BytecodeProviderInitiator[0;39m - [32mHHH000021: Bytecode provider name : bytebuddy
+[0;39m25 Sep 2023;15:35:44.119 [restartedMain] [34mINFO [0;39m [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - [32mHHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[0;39m25 Sep 2023;15:35:44.185 [restartedMain] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mInitialized JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:35:44.389 [restartedMain] [31mWARN [0;39m [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - [32mspring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[0;39m25 Sep 2023;15:35:44.925 [restartedMain] [34mINFO [0;39m [36mo.s.s.web.DefaultSecurityFilterChain[0;39m - [32mWill secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@4d506d62, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3e2b52fb, org.springframework.security.web.context.SecurityContextHolderFilter@ea55395, org.springframework.security.web.header.HeaderWriterFilter@43921aec, org.springframework.security.web.authentication.logout.LogoutFilter@2b5ecbdb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3bee803f, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5cd52c51, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@69fe5a34, org.springframework.security.web.access.ExceptionTranslationFilter@79e3d7e4, org.springframework.security.web.access.intercept.AuthorizationFilter@5bf7361a]
+[0;39m25 Sep 2023;15:35:44.979 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.OptionalLiveReloadServer[0;39m - [32mLiveReload server is running on port 35729
+[0;39m25 Sep 2023;15:35:44.991 [restartedMain] [34mINFO [0;39m [36mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - [32mTomcat started on port(s): 8082 (http) with context path ''
+[0;39m25 Sep 2023;15:35:44.995 [restartedMain] [34mINFO [0;39m [36mc.twitter.TwitterprojectApplication[0;39m - [32mStarted TwitterprojectApplication in 1.363 seconds (process running for 1733.127)
+[0;39m25 Sep 2023;15:35:44.996 [restartedMain] [34mINFO [0;39m [36mo.s.b.d.a.ConditionEvaluationDeltaLoggingListener[0;39m - [32mCondition evaluation unchanged
+[0;39m25 Sep 2023;15:49:15.841 [HikariPool-9 housekeeper] [31mWARN [0;39m [36mcom.zaxxer.hikari.pool.HikariPool[0;39m - [32mHikariPool-9 - Thread starvation or clock leap detected (housekeeper delta=6m1s580ms929µs200ns).
+[0;39m25 Sep 2023;15:49:25.568 [RMI TCP Connection(38)-127.0.0.1] [34mINFO [0;39m [36mo.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin[0;39m - [32mApplication shutdown requested.
+[0;39m25 Sep 2023;15:49:25.575 [RMI TCP Connection(38)-127.0.0.1] [34mINFO [0;39m [36mo.a.catalina.core.StandardService[0;39m - [32mStopping service [Tomcat]
+[0;39m25 Sep 2023;15:49:25.580 [RMI TCP Connection(38)-127.0.0.1] [34mINFO [0;39m [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - [32mClosing JPA EntityManagerFactory for persistence unit 'default'
+[0;39m25 Sep 2023;15:49:25.580 [RMI TCP Connection(38)-127.0.0.1] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-9 - Shutdown initiated...
+[0;39m25 Sep 2023;15:49:25.584 [RMI TCP Connection(38)-127.0.0.1] [34mINFO [0;39m [36mcom.zaxxer.hikari.HikariDataSource[0;39m - [32mHikariPool-9 - Shutdown completed.
+[0;39m
